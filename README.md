@@ -71,7 +71,7 @@ Por padrão, o listener está configurado para capturar notificações de:
   "mensagem": "R$ 35,90 em Mercado Central",
   "data": "2025-10-23T14:32:00"
 }
-
+```
 
 ## Licença
 
