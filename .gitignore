@@ -1,0 +1,27 @@
+# ANDROID / KOTLIN
+*.iml
+.gradle/
+local.properties
+/.idea/
+.DS_Store
+/build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# AMBIENTE / CONFIG
+
+.env
+tks.env
+*.json
+*.keystore
+*.jks
+google-services.json
+
+# LOGS / SISTEMA
+
+*.log
+Thumbs.db
+ehthumbs.db
+Desktop.ini
