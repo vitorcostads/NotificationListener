@@ -24,6 +24,7 @@ App reinicia com o celular e continua funcionando em segundo plano.
 ---
 
 ## Estrutura principal
+```
 app/
 ├── src/
 │ ├── main/
@@ -36,11 +37,9 @@ app/
 │ │ │ └── ui/theme/
 │ │ │ └── MainActivity.kt
 │ │ └── res/
-│ └── ...
 ├── build.gradle.kts
 └── .gitignore
-
-
+```
 ---
 
 ## Execução
